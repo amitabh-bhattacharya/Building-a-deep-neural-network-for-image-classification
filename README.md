@@ -1,4 +1,4 @@
-# Building a deep neural network (in python) and using it for cat/non-cat image classification
+## Building a deep neural network (in python) and using it for cat/non-cat image classification
 
 In this project we will buid a Deep Neural Network (L-layers) from skratch. This project is divided into two phases.
 
